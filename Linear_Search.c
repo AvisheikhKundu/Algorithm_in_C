@@ -10,6 +10,7 @@ bool linear_search(int a[], int size, int n) {
     return false;
 }
 
+
 int main() {
     int a[] = {1, 2, 3, 4, 5, 6};
     int n = 4;
@@ -23,3 +24,4 @@ int main() {
 
     return 0;
 }
+
